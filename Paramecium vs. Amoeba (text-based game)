@@ -1,5 +1,3 @@
-# Rachelle Bassen
-
 # print game instructions including background and direction commands
 def game_instructions():
     print(
